@@ -1,0 +1,1 @@
+<view class="home-main data-v-56ee8115"><block wx:for="{{homeDate}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block class="data-v-56ee8115"><home-item vue-id="{{'f23bbade-1-'+index}}" item="{{item}}" class="data-v-56ee8115" bind:__l="__l"></home-item></block></block></view>

@@ -1,0 +1,1 @@
+<view class="celebrityList"><celebrity vue-id="bd863b2e-1" datalist="{{excellentList}}" bind:__l="__l"></celebrity></view>

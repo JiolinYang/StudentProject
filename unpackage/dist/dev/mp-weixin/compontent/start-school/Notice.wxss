@@ -1,0 +1,37 @@
+
+.notice-item.data-v-205bea28{
+	width: 674rpx;
+	height: 60rpx;
+	border: 2rpx solid #f88c35;
+	background: rgba(248,140,53,.12);
+	color: #f88c35;
+	border-radius: 10rpx;
+	/* padding-bottom: 20rpx; */
+	margin-bottom: 10rpx;
+}
+.notice-main.data-v-205bea28{
+	width: 674rpx;
+	height: 60rpx;
+	border-radius: 10rpx;
+	display: flex;
+	align-items: center;
+	padding: 0 20rpx;
+	box-sizing: border-box;
+}
+.notice-img.data-v-205bea28{
+	width: 29rpx;
+	height: 29rpx;
+}
+/* 默认 */
+.notice-text.data-v-205bea28{
+	background: rgba(53,140,248,.12);
+	border: 2rpx solid #358cf8;
+	color: #358cf8;
+}
+/* 警告 */
+.notice-warning.data-v-205bea28{
+	/* background: rgba(248,140,53,.12); */
+	/* border: 2rpx solid #f88c35; */
+	color: #f88c35;
+}
+

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "process-child": "/compontent/process/process-child"
+  },
+  "component": true
+}

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-header": "/common/my-header/my-header",
+    "manga-list": "/compontent/start-school/MangaList",
+    "celebrity-list": "/compontent/start-school/CelebrityList",
+    "notice": "/compontent/start-school/Notice"
+  }
+}
